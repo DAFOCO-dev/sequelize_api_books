@@ -1,0 +1,27 @@
+# Archivos de entorno
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependencias de paquetes (sin node_modules)
+*.lock
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de compilación de Node.js
+build/
+dist/
+
+# Archivos de configuración de IDE
+.vscode/
+.idea/
+
+# Archivos de configuración de sistema operativo
+Desktop.ini
+
+node_modules/
